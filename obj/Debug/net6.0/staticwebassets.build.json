@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eYXzopdCVcpGcacPrsVt7xJf11nUm6WHJnkrvyXAWpU=",
+  "Source": "DotnetCoreDeploy",
+  "BasePath": "_content/DotnetCoreDeploy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
